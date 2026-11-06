@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1166" height="169" viewBox="0 0 1166 169" role="img" aria-labelledby="title desc">
+  <title id="title">Bomberman animado</title>
+  <desc id="desc">Un personaje pixelado avanza por un escenario oscuro mientras una bomba parpadea y explota.</desc>
+  <rect width="1166" height="169" rx="12" fill="#0d1117"/>
+  <path d="M0 139H1166" stroke="#30363d" stroke-width="2"/>
+  <g fill="#161b22" stroke="#30363d" stroke-width="2">
+    <rect x="90" y="91" width="38" height="38" rx="4"/><rect x="385" y="91" width="38" height="38" rx="4"/>
+    <rect x="755" y="91" width="38" height="38" rx="4"/><rect x="1020" y="91" width="38" height="38" rx="4"/>
+  </g>
+  <g transform="translate(0 0)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="35 0;35 0;300 0;300 0;650 0;650 0;940 0;940 0" keyTimes="0;.12;.3;.42;.62;.74;.9;1" dur="8s" repeatCount="indefinite"/>
+      <rect x="0" y="76" width="30" height="39" rx="5" fill="#f0f6fc"/>
+      <rect x="5" y="62" width="20" height="18" rx="5" fill="#f0f6fc"/>
+      <rect x="9" y="67" width="4" height="5" fill="#0d1117"/><rect x="19" y="67" width="4" height="5" fill="#0d1117"/>
+      <rect x="6" y="112" width="7" height="12" fill="#58a6ff"/><rect x="18" y="112" width="7" height="12" fill="#58a6ff"/>
+      <rect x="-4" y="124" width="15" height="5" rx="2" fill="#f0f6fc"/><rect x="16" y="124" width="15" height="5" rx="2" fill="#f0f6fc"/>
+    </g>
+  </g>
+  <g transform="translate(510 111)">
+    <circle r="15" fill="#30363d" stroke="#8b949e" stroke-width="2"/>
+    <path d="M-3-14Q-9-24 0-27" fill="none" stroke="#f0f6fc" stroke-width="3"/>
+    <circle cx="2" cy="-27" r="3" fill="#f85149"><animate attributeName="opacity" values="1;.2;1" dur=".45s" repeatCount="indefinite"/></circle>
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.48;.5;.78;1" dur="8s" repeatCount="indefinite"/>
+  </g>
+  <g fill="#f85149" opacity="0">
+    <path d="M510 68l7 25 19-17-12 23 25 4-25 5 13 22-20-17-7 25-6-25-20 17 13-22-25-5 25-4-12-23 19 17z">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.48;.5;.61;.64" dur="8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values=".25;.25;1.2;1.2;.25" keyTimes="0;.48;.5;.61;.64" dur="8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="583" y="48" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="14" letter-spacing="3">PLAYER 1  ·  READY!</text>
+  <text x="583" y="158" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="11">PRESS START</text>
+</svg>
