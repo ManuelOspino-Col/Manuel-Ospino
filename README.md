@@ -27,11 +27,17 @@ Estudiante y desarrollador interesado en la tecnología, el software y la creaci
 
 <div align="center">
 
-![Chrome](https://skillicons.dev/icons?i=chrome)
-![Firefox](https://skillicons.dev/icons?i=firefox)
-![Opera](https://skillicons.dev/icons?i=opera)
-![Safari](https://skillicons.dev/icons?i=safari)
-![Canva](https://skillicons.dev/icons?i= Canva)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="Chrome" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="Firefox" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="Opera" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="Safari" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="40" alt="Internet Explorer" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
 
 </div>
 
