@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="FOTO%20-%20FONDO%20AZUL.png" width="180" alt="Foto de perfil de Manuel Ospino" />
+  <img src="https://avatars.githubusercontent.com/u/343108091?v=4" width="180" alt="Foto de perfil de Manuel Ospino" />
 
   <h1>¡Hola! Soy Manuel Enrique Ospino Pacheco 👋</h1>
 
@@ -52,5 +52,42 @@
 ---
 
 <div align="center">
-  <img src="bomberman.svg" width="100%" alt="Animación de Bomberman" />
+  <svg width="100%" viewBox="0 0 1166 169" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bomberman banner">
+    <defs>
+      <linearGradient id="bg" x1="0" x2="1">
+        <stop offset="0%" stop-color="#0f172a"/>
+        <stop offset="50%" stop-color="#111827"/>
+        <stop offset="100%" stop-color="#0b1120"/>
+      </linearGradient>
+    </defs>
+    <rect width="1166" height="169" fill="url(#bg)" rx="16"/>
+    <g fill="#f8fafc">
+      <rect x="40" y="102" width="34" height="40" rx="4"/>
+      <rect x="72" y="70" width="26" height="32" rx="4"/>
+      <rect x="110" y="102" width="34" height="40" rx="4"/>
+    </g>
+    <g transform="translate(0 0)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 260 0; 550 0; 840 0; 0 0" dur="8s" repeatCount="indefinite"/>
+        <rect x="220" y="80" width="28" height="40" rx="5" fill="#f8fafc"/>
+        <rect x="230" y="60" width="18" height="22" rx="6" fill="#f8fafc"/>
+        <rect x="234" y="64" width="5" height="5" fill="#0f172a"/>
+        <rect x="245" y="64" width="5" height="5" fill="#0f172a"/>
+        <rect x="228" y="118" width="10" height="12" fill="#38bdf8"/>
+        <rect x="246" y="118" width="10" height="12" fill="#38bdf8"/>
+        <rect x="220" y="128" width="12" height="6" rx="2" fill="#f8fafc"/>
+        <rect x="242" y="128" width="12" height="6" rx="2" fill="#f8fafc"/>
+      </g>
+    </g>
+    <g>
+      <circle cx="950" cy="60" r="16" fill="#f59e0b" opacity="0.9">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="0.7s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="950" cy="60" r="28" fill="none" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="3">
+        <animate attributeName="r" values="18;30;18" dur="0.7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="583" y="40" text-anchor="middle" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">PLAYER ONE</text>
+    <text x="583" y="155" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12">READY · PRESS START</text>
+  </svg>
 </div>
